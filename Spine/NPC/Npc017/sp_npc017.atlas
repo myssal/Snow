@@ -1,0 +1,146 @@
+
+sp_npc017.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dabi_L
+  rotate: true
+  xy: 1126, 547
+  size: 395, 702
+  orig: 395, 752
+  offset: 0, 50
+  index: -1
+dabi_R
+  rotate: false
+  xy: 724, 655
+  size: 400, 787
+  orig: 417, 787
+  offset: 0, 0
+  index: -1
+kuzi_baobao
+  rotate: false
+  xy: 1647, 174
+  size: 296, 371
+  orig: 296, 371
+  offset: 0, 0
+  index: -1
+lingdai
+  rotate: true
+  xy: 1647, 94
+  size: 78, 375
+  orig: 78, 375
+  offset: 0, 0
+  index: -1
+lingdai_yingzi
+  rotate: true
+  xy: 1647, 19
+  size: 73, 381
+  orig: 73, 381
+  offset: 0, 0
+  index: -1
+muzhi_R
+  rotate: false
+  xy: 863, 175
+  size: 125, 69
+  orig: 125, 69
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: false
+  xy: 724, 1444
+  size: 1300, 602
+  orig: 1300, 602
+  offset: 0, 0
+  index: -1
+qiang_yinzi_01
+  rotate: false
+  xy: 521, 2
+  size: 116, 81
+  orig: 116, 81
+  offset: 0, 0
+  index: -1
+qiang_yinzi_02
+  rotate: true
+  xy: 1945, 495
+  size: 171, 101
+  orig: 175, 103
+  offset: 4, 2
+  index: -1
+qiang_yinzi_03
+  rotate: false
+  xy: 1126, 944
+  size: 616, 498
+  orig: 639, 498
+  offset: 23, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 294
+  size: 720, 1752
+  orig: 762, 1752
+  offset: 42, 0
+  index: -1
+shizhi_L
+  rotate: true
+  xy: 1945, 274
+  size: 219, 88
+  orig: 219, 91
+  offset: 0, 3
+  index: -1
+shouzhang_R
+  rotate: false
+  xy: 696, 91
+  size: 165, 153
+  orig: 165, 186
+  offset: 0, 3
+  index: -1
+shouzhi_R
+  rotate: false
+  xy: 259, 79
+  size: 260, 213
+  orig: 277, 213
+  offset: 11, 0
+  index: -1
+toubu
+  rotate: false
+  xy: 724, 246
+  size: 323, 407
+  orig: 334, 409
+  offset: 0, 0
+  index: -1
+tui-L
+  rotate: true
+  xy: 1049, 32
+  size: 513, 596
+  orig: 513, 596
+  offset: 0, 0
+  index: -1
+xiaobi_L
+  rotate: true
+  xy: 1744, 958
+  size: 484, 297
+  orig: 500, 297
+  offset: 0, 0
+  index: -1
+xiaobi_R
+  rotate: false
+  xy: 2, 61
+  size: 255, 231
+  orig: 255, 231
+  offset: 0, 0
+  index: -1
+yingying_01
+  rotate: true
+  xy: 521, 85
+  size: 207, 173
+  orig: 207, 173
+  offset: 0, 0
+  index: -1
+yingying_02
+  rotate: true
+  xy: 1830, 668
+  size: 288, 169
+  orig: 288, 184
+  offset: 0, 15
+  index: -1

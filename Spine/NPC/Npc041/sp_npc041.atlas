@@ -1,0 +1,139 @@
+
+sp_npc041.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 616
+  size: 758, 1427
+  orig: 758, 1427
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: true
+  xy: 1711, 627
+  size: 271, 262
+  orig: 271, 262
+  offset: 0, 0
+  index: -1
+dabi-L
+  rotate: false
+  xy: 1711, 900
+  size: 332, 1143
+  orig: 332, 1143
+  offset: 0, 0
+  index: -1
+dabi-R
+  rotate: false
+  xy: 762, 876
+  size: 315, 1167
+  orig: 315, 1167
+  offset: 0, 0
+  index: -1
+damuzhi-L
+  rotate: false
+  xy: 1919, 187
+  size: 107, 230
+  orig: 107, 230
+  offset: 0, 0
+  index: -1
+damuzhi-R
+  rotate: true
+  xy: 762, 770
+  size: 104, 239
+  orig: 104, 239
+  offset: 0, 0
+  index: -1
+daoju
+  rotate: false
+  xy: 1711, 43
+  size: 206, 582
+  orig: 206, 721
+  offset: 0, 0
+  index: -1
+daoju2
+  rotate: true
+  xy: 501, 69
+  size: 161, 1201
+  orig: 161, 1201
+  offset: 0, 0
+  index: -1
+daoju3
+  rotate: true
+  xy: 501, 232
+  size: 382, 1208
+  orig: 382, 1208
+  offset: 0, 0
+  index: -1
+shizhi-L
+  rotate: true
+  xy: 185, 67
+  size: 102, 257
+  orig: 102, 257
+  offset: 0, 0
+  index: -1
+shizhi-R
+  rotate: false
+  xy: 1079, 1346
+  size: 76, 254
+  orig: 76, 254
+  offset: 0, 0
+  index: -1
+shoujia
+  rotate: false
+  xy: 444, 98
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1079, 1602
+  size: 367, 441
+  orig: 367, 441
+  offset: 0, 0
+  index: -1
+wumignzhi-R
+  rotate: false
+  xy: 1919, 28
+  size: 103, 157
+  orig: 103, 157
+  offset: 0, 0
+  index: -1
+xiaomuzhi-L
+  rotate: true
+  xy: 2, 39
+  size: 130, 181
+  orig: 130, 181
+  offset: 0, 0
+  index: -1
+xiaomuzhi-R
+  rotate: true
+  xy: 1003, 777
+  size: 97, 111
+  orig: 97, 111
+  offset: 0, 0
+  index: -1
+xiongjia
+  rotate: true
+  xy: 2, 171
+  size: 443, 497
+  orig: 443, 497
+  offset: 0, 0
+  index: -1
+zhongzhi-L
+  rotate: false
+  xy: 1919, 419
+  size: 113, 206
+  orig: 113, 206
+  offset: 0, 0
+  index: -1
+zhongzhi-R
+  rotate: true
+  xy: 1003, 684
+  size: 91, 212
+  orig: 91, 212
+  offset: 0, 0
+  index: -1

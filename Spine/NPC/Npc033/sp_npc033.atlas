@@ -1,0 +1,160 @@
+
+sp_npc033.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dabi_L
+  rotate: false
+  xy: 771, 875
+  size: 300, 1155
+  orig: 320, 1155
+  offset: 20, 0
+  index: -1
+lian
+  rotate: false
+  xy: 1297, 461
+  size: 272, 223
+  orig: 336, 223
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: true
+  xy: 1627, 391
+  size: 748, 244
+  orig: 748, 244
+  offset: 0, 0
+  index: -1
+mianjing
+  rotate: true
+  xy: 1022, 428
+  size: 256, 273
+  orig: 256, 273
+  offset: 0, 0
+  index: -1
+shenti_li
+  rotate: false
+  xy: 2, 446
+  size: 767, 1584
+  orig: 767, 1584
+  offset: 0, 0
+  index: -1
+shou_R_shizhi
+  rotate: false
+  xy: 599, 11
+  size: 145, 65
+  orig: 145, 65
+  offset: 0, 0
+  index: -1
+shou_R_wumingzhi
+  rotate: false
+  xy: 1932, 1575
+  size: 80, 97
+  orig: 80, 97
+  offset: 0, 0
+  index: -1
+shou_R_xiaozhi
+  rotate: false
+  xy: 1571, 589
+  size: 53, 95
+  orig: 53, 95
+  offset: 0, 0
+  index: -1
+toufa_L_01
+  rotate: true
+  xy: 1577, 170
+  size: 219, 230
+  orig: 221, 230
+  offset: 2, 0
+  index: -1
+toufa_L_qian
+  rotate: false
+  xy: 1809, 238
+  size: 71, 151
+  orig: 71, 151
+  offset: 0, 0
+  index: -1
+toufa_R
+  rotate: false
+  xy: 1873, 449
+  size: 113, 138
+  orig: 116, 139
+  offset: 0, 1
+  index: -1
+tui_L
+  rotate: false
+  xy: 1297, 266
+  size: 278, 193
+  orig: 278, 193
+  offset: 0, 0
+  index: -1
+tui_R
+  rotate: true
+  xy: 1873, 589
+  size: 240, 157
+  orig: 240, 157
+  offset: 0, 0
+  index: -1
+waitao_L
+  rotate: false
+  xy: 1554, 1141
+  size: 376, 889
+  orig: 376, 889
+  offset: 0, 0
+  index: -1
+waitao_R
+  rotate: false
+  xy: 1073, 1131
+  size: 479, 899
+  orig: 479, 966
+  offset: 0, 9
+  index: -1
+xiaobi_R
+  rotate: true
+  xy: 1073, 686
+  size: 443, 552
+  orig: 443, 553
+  offset: 0, 0
+  index: -1
+xiongjia_01
+  rotate: true
+  xy: 599, 78
+  size: 366, 159
+  orig: 366, 161
+  offset: 0, 0
+  index: -1
+xiongqian_daizi01
+  rotate: false
+  xy: 1932, 1674
+  size: 56, 356
+  orig: 71, 358
+  offset: 0, 2
+  index: -1
+xiongqian_daizi02
+  rotate: false
+  xy: 2, 16
+  size: 595, 428
+  orig: 595, 449
+  offset: 0, 21
+  index: -1
+yaobao_L
+  rotate: false
+  xy: 771, 476
+  size: 249, 397
+  orig: 249, 397
+  offset: 0, 0
+  index: -1
+yifu_houpian_01
+  rotate: false
+  xy: 1932, 1484
+  size: 82, 89
+  orig: 82, 89
+  offset: 0, 0
+  index: -1
+yifu_houpian_02
+  rotate: true
+  xy: 1873, 831
+  size: 308, 133
+  orig: 308, 133
+  offset: 0, 0
+  index: -1

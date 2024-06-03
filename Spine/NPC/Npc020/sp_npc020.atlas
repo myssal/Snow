@@ -1,0 +1,118 @@
+
+sp_npc020.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 502
+  size: 615, 1484
+  orig: 644, 1484
+  offset: 29, 0
+  index: -1
+dabi_R
+  rotate: true
+  xy: 2, 125
+  size: 375, 487
+  orig: 375, 487
+  offset: 0, 0
+  index: -1
+dabi_Ryingzi
+  rotate: true
+  xy: 1735, 79
+  size: 252, 197
+  orig: 252, 197
+  offset: 0, 0
+  index: -1
+jiandai
+  rotate: true
+  xy: 1264, 186
+  size: 141, 109
+  orig: 141, 109
+  offset: 0, 0
+  index: -1
+jianjia_La
+  rotate: true
+  xy: 956, 28
+  size: 219, 285
+  orig: 219, 285
+  offset: 0, 0
+  index: -1
+jianjia_Lb
+  rotate: true
+  xy: 1380, 31
+  size: 300, 353
+  orig: 300, 353
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: true
+  xy: 619, 922
+  size: 1064, 890
+  orig: 1064, 890
+  offset: 0, 0
+  index: -1
+qiang yingzi
+  rotate: false
+  xy: 1403, 333
+  size: 583, 587
+  orig: 694, 645
+  offset: 0, 58
+  index: -1
+shizhi_L
+  rotate: true
+  xy: 619, 540
+  size: 59, 65
+  orig: 60, 65
+  offset: 1, 0
+  index: -1
+shoubi_L
+  rotate: true
+  xy: 619, 601
+  size: 319, 782
+  orig: 319, 782
+  offset: 0, 0
+  index: -1
+shouzhi_L
+  rotate: false
+  xy: 1264, 457
+  size: 127, 142
+  orig: 127, 142
+  offset: 0, 0
+  index: -1
+shouzhi_R
+  rotate: false
+  xy: 1264, 329
+  size: 114, 126
+  orig: 114, 126
+  offset: 0, 0
+  index: -1
+toubu
+  rotate: false
+  xy: 956, 249
+  size: 306, 350
+  orig: 351, 350
+  offset: 0, 0
+  index: -1
+tui_R
+  rotate: false
+  xy: 1511, 1542
+  size: 290, 444
+  orig: 339, 444
+  offset: 49, 0
+  index: -1
+tuibao_R
+  rotate: true
+  xy: 491, 172
+  size: 328, 463
+  orig: 328, 463
+  offset: 0, 0
+  index: -1
+xiaobi_R
+  rotate: true
+  xy: 1511, 1127
+  size: 413, 286
+  orig: 413, 289
+  offset: 0, 0
+  index: -1

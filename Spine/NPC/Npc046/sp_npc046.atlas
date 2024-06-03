@@ -1,0 +1,62 @@
+
+sp_npc046.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kua
+  rotate: false
+  xy: 1035, 1729
+  size: 933, 315
+  orig: 933, 320
+  offset: 0, 5
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 856
+  size: 1031, 1188
+  orig: 1031, 1188
+  offset: 0, 0
+  index: -1
+toudeng
+  rotate: false
+  xy: 1910, 1550
+  size: 134, 177
+  orig: 134, 179
+  offset: 0, 2
+  index: -1
+xiongkoudeng
+  rotate: false
+  xy: 2, 81
+  size: 321, 379
+  orig: 327, 383
+  offset: 0, 4
+  index: -1
+youshangbi
+  rotate: true
+  xy: 1035, 1097
+  size: 630, 873
+  orig: 630, 873
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 2, 476
+  size: 680, 378
+  orig: 680, 381
+  offset: 0, 3
+  index: -1
+zuoshangbi
+  rotate: false
+  xy: 1035, 462
+  size: 868, 633
+  orig: 868, 633
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: false
+  xy: 325, 103
+  size: 669, 371
+  orig: 673, 376
+  offset: 4, 5
+  index: -1
